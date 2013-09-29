@@ -73,14 +73,14 @@ namespace Simulare_WoUSO
             if (winner <= p.form) // a castigat p
             {
                 p.score += 80;
-                p.form += (1 - p.form) * 0.01;
-                o.form -= o.form * 0.01;
+                p.form += (1 - p.form) * Constants.formIncrease;
+                o.form -= o.form * Constants.formIncrease;
             }
             else
             {
                 o.score += 80;
-                o.form += (1 - o.form) * 0.01;
-                p.form -= p.form * 0.01;
+                o.form += (1 - o.form) * Constants.formIncrease;
+                p.form -= p.form * Constants.formIncrease;
             }
             BlockPlayers(p, o);
         }

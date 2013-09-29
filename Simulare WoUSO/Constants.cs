@@ -16,5 +16,7 @@ namespace Simulare_WoUSO
         public static int groupsPerSeries = 5;
 
         public static int initialScore = 500;
+
+        public static double formIncrease = 0.05;
     }
 }
