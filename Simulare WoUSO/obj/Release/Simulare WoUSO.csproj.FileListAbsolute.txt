@@ -1,0 +1,9 @@
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\bin\Release\Simulare WoUSO.exe.config
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\bin\Release\Simulare WoUSO.exe
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\bin\Release\Simulare WoUSO.pdb
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Release\Simulare_WoUSO.Form1.resources
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Release\Simulare_WoUSO.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Release\Simulare WoUSO.csproj.GenerateResource.Cache
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Release\Simulare WoUSO.exe
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Release\Simulare WoUSO.pdb
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Release\Simulare WoUSO.csprojResolveAssemblyReference.cache

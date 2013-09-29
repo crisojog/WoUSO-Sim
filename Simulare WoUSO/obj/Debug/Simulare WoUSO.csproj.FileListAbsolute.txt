@@ -1,0 +1,18 @@
+c:\users\cristi\documents\visual studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\bin\Debug\Simulare WoUSO.exe.config
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\bin\Debug\Simulare WoUSO.exe
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\bin\Debug\Simulare WoUSO.pdb
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare_WoUSO.Properties.Resources.resources
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.csproj.GenerateResource.Cache
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.exe
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.pdb
+C:\Users\Cristi\Documents\Visual Studio 2012\Projects\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare_WoUSO.Form1.resources
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\bin\Debug\Simulare WoUSO.exe.config
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.exe
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.pdb
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\bin\Debug\Simulare WoUSO.exe
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\bin\Debug\Simulare WoUSO.pdb
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare_WoUSO.Form1.resources
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare_WoUSO.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Simulare WoUSO\Simulare WoUSO\obj\Debug\Simulare WoUSO.csproj.GenerateResource.Cache
