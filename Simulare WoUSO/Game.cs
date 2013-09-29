@@ -140,14 +140,10 @@ namespace Simulare_WoUSO
             switch (strat)
             {
                 case 0: // caut numai de-aia cat mai slabi;
-
-                    for (int i = players.Count - 1; i >= 0; i--)
+                    opp = players[players.Count - 1 - rnd.Next(players.Count / 3)];
+                    while (opp == p || !p.CanChallenge(opp))
                     {
-                        if (players[i] != p && p.CanChallenge(players[i])) 
-                        {
-                            opp = players[i];
-                            break;
-                        }
+                        opp = players[players.Count - 1 - rnd.Next(players.Count / 3)];
                     }
                     break;
                 case 1: // caut egali cu mine
